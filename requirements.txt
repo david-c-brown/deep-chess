@@ -1,0 +1,4 @@
+numpy==1.21.2
+tensorflow==2.6.0
+Keras==2.6.0
+python-chess==1.6.1
