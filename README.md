@@ -28,6 +28,6 @@ The neural networks are trained using a self-play method. The AI plays games aga
 To run the Chess AI, follow these steps:
 
     Install the required dependencies: pip install -r requirements.txt
-    Run the main script: ~python deep.py~ Open jupyter notebook, or google colab and hit alt-enter a bunch.
+    Run the main script: Open jupyter notebook, or google colab and hit alt-enter a bunch.
 
 You can adjust the AI's strength by modifying the number of MCTS simulations or the neural network's architecture.
