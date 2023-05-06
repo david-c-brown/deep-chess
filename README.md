@@ -1,5 +1,7 @@
 # Chess AI using Monte Carlo Tree Search and Neural Networks
 
+[Medium write up](https://dvdbrwn.medium.com/mastering-chess-with-deep-learning-a-monte-carlo-tree-search-and-ppo-loss-approach-24223ba7ab26)
+
 This project aims to develop a sophisticated chess AI using a combination of Monte Carlo Tree Search (MCTS) and neural networks. The AI is designed to play as both white and black pieces, offering a challenging and engaging gameplay experience.
 
 ## Overview
